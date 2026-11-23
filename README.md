@@ -95,7 +95,7 @@ YouTube URL / Local Audio or Video
 | Pydub | Audio processing and conversion |
 | FFmpeg | Media conversion and audio handling |
 | OpenAI Whisper | Speech recognition and transcription |
-| Deep Translator | Hindi-to-English translation support |
+| Sarvam AI | Hindi-to-English translation support |
 | LangChain | LLM orchestration and RAG workflow |
 | Mistral AI | Language model for text generation and responses |
 | Hugging Face Sentence Transformers | Text embeddings |
@@ -193,4 +193,4 @@ You can ask questions such as:
 
 ---
 
-*Before publishing, verify the dependency-file name, environment-variable names, and supported file formats against the exact code in your project folder.*
+
